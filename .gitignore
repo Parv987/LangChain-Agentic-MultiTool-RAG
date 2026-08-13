@@ -1,4 +1,5 @@
-.env,
-__pychache__/,
-data/*.pdf,
+__pychache__/
+resume/*.pdf
 .venv/
+.env
+vectorstore/

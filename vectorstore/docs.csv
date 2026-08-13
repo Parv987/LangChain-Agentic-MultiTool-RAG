@@ -1,0 +1,69 @@
+documents,source
+"Parv Pandey 
+(+91) 9205294805 | Email | LinkedIn | GitHub | Hacker Rank  
+ 
+EXPERIENCE     
+CONSTANT CONTACT (Aeries Technology)   Bangalore  
+Software Engineer,                          Aug 2024-present  
+● Contributed to a DevOps/reporting initiative where I integrated automated test results from multiple 
+repositories into ReportPortal, enabling managers and directors to monitor test outcomes, bugs, and test health 
+in real-time.",Parv-Pandey-Resume.pdf
+"in real-time.  
+● Built and deployed an OpenTelemetry (OTel) Browser Gateway based on the OpenTelemetry Collector to 
+enable end-to-end distributed tracing for customer-facing mobile applications handling approximately 1,000 
+requests per second. Created and maintained a dedicated repository containing deployment manifests and 
+environment-specific configurations, and successfully deployed the solution across QA, Stage, and Production",Parv-Pandey-Resume.pdf
+"environments on OKD. Integrated the gateway with environment-specific HyperDX instances and secured the 
+deployment using Cloudflare protection and access policies, providing the Mobile team with enhanced 
+observability and faster issue diagnosis. Additionally, contributed to Cloudflare platform maintenance by 
+reviewing page rules, removing obsolete configurations, and improving overall platform hygiene and 
+maintainability. 
+ 
+ 
+EDUCATION",Parv-Pandey-Resume.pdf
+"maintainability. 
+ 
+ 
+EDUCATION     
+Galgotias University                                    Greater Noida  
+B. Tech in Computer Science  /  7.5 CGPA                                           2019- 2023  
+ 
+PROJECTS      
+RAG PDF CHATBOT| Link:      
+● Built an Agentic AI application using LangChain, OpenRouter, and FAISS, enabling AI agents to 
+autonomously select and invoke tools based on user intent.",Parv-Pandey-Resume.pdf
+"autonomously select and invoke tools based on user intent.  
+● Implemented Retrieval-Augmented Generation (RAG), external search integration, and API -based tool 
+calling to provide context-aware responses from both private documents and real -time data sources. 
+● Gained hands-on experience with agent orchestration, vector databases, prompt engineering, and LLM-
+powered workflow automation. 
+ 
+LLM-Judge| Link:",Parv-Pandey-Resume.pdf
+"powered workflow automation. 
+ 
+LLM-Judge| Link:      
+● Developed a Python-based RAG evaluation framework that benchmarks non-LLM metrics against LLM-as-a-judge and 
+RAGAS evaluation pipelines for assessing retrieval quality, answer relevance, and end-to-end model performance. 
+● Implemented AI system evaluation workflows using LLMs, prompt-based judging, semantic similarity, retrieval-
+augmented generation (RAG), and automated metric computation for downstream model analysis 
+ 
+SKILLS",Parv-Pandey-Resume.pdf
+"SKILLS     
+Programming Languages: Java, Python 
+Frameworks & Technologies: OpenTelemetry (OTel), Generative AI, LangChain, FAISS, Cursor, Claude, tool calling, RAG pipeline, 
+                                                       Hybrid RAG pipeline, Pipeline Evaluation 
+Cloud & DevOps: Cloudflare, Kubernetes, OKD (OpenShift), Docker, Git 
+Databases: PostgreSQL 
+Monitoring: ReportPortal, HyperDX 
+ 
+CERTIFICATIONS     
+● Problem Solving: Hacker Rank 
+ 
+ACHIEVEMENTS",Parv-Pandey-Resume.pdf
+"CERTIFICATIONS     
+● Problem Solving: Hacker Rank 
+ 
+ACHIEVEMENTS    
+● Stood 2nd in the InnoJam Hackathon held in Constant Contact and won a cash prize of 3000 Dollars (6–member team). 
+● Earned a 5-star badge in Problem-Solving at HackerRank. 
+● Earned a 5-star badge in Java at HackerRank.",Parv-Pandey-Resume.pdf
