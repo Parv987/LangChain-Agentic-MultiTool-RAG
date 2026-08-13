@@ -1,5 +1,5 @@
-__pychache__/
 resume/*.pdf
 .venv/
 .env
 vectorstore/
+**/__pycache__/
